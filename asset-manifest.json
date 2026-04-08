@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scetshivam-glitch/toodo/static/css/main.3a633764.css",
+    "main.js": "/scetshivam-glitch/toodo/static/js/main.b5b46a74.js",
+    "static/js/453.fd95e65f.chunk.js": "/scetshivam-glitch/toodo/static/js/453.fd95e65f.chunk.js",
+    "index.html": "/scetshivam-glitch/toodo/index.html",
+    "main.3a633764.css.map": "/scetshivam-glitch/toodo/static/css/main.3a633764.css.map",
+    "main.b5b46a74.js.map": "/scetshivam-glitch/toodo/static/js/main.b5b46a74.js.map",
+    "453.fd95e65f.chunk.js.map": "/scetshivam-glitch/toodo/static/js/453.fd95e65f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a633764.css",
+    "static/js/main.b5b46a74.js"
+  ]
+}
